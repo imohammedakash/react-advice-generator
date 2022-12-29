@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-advice-generator/static/css/main.a240c550.css",
+    "main.js": "/react-advice-generator/static/js/main.83808f55.js",
+    "index.html": "/react-advice-generator/index.html",
+    "main.a240c550.css.map": "/react-advice-generator/static/css/main.a240c550.css.map",
+    "main.83808f55.js.map": "/react-advice-generator/static/js/main.83808f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.83808f55.js"
+  ]
+}
